@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4DD5575F-860A-4847-8C8B-1513A72A097B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.zametki PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zametki/MainPage.xaml">
+    <Files>
+      <File FileName="zametki/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="zametki/MainPage.xaml" Line="22" Column="27" />
+      <File FileName="zametki/MainPage.xaml.cs" Line="20" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zametki" expanded="True">
+            <Node name="zametki" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
